@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1750b5e08d23b1f3",
+        "id": "4fc3094e1fcb8063",
         "type": "tabs",
         "children": [
           {
-            "id": "fd90f890d3374500",
+            "id": "c9a96b50152e13d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编译原理/编译原理作业/作业7.md",
-                "mode": "preview",
+                "file": "编译原理/编译原理作业/作业2.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 347.5
   },
   "right": {
     "id": "b0cdade28f912586",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编译原理/编译原理作业/作业7.md",
+                "file": "编译原理/编译原理作业/作业2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编译原理/编译原理作业/作业7.md",
+                "file": "编译原理/编译原理作业/作业2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编译原理/编译原理作业/作业7.md"
+                "file": "编译原理/编译原理作业/作业2.md"
               }
             }
           }
@@ -147,15 +147,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c1e2da38f0cc7076",
+  "active": "c9a96b50152e13d1",
   "lastOpenFiles": [
-    "编译原理/编译原理作业/作业6.md",
-    "编译原理/编译原理作业/作业7.md",
-    "编译原理/编译原理作业/作业5.md",
-    "编译原理/编译原理作业/作业4.md",
-    "编译原理/编译原理作业/作业3.md",
-    "编译原理/编译原理作业/作业2.md",
     "编译原理/编译原理作业/作业1.md",
+    "编译原理/编译原理作业/作业4.md",
+    "编译原理/编译原理作业/作业6.md",
+    "编译原理/编译原理作业/作业2.md",
+    "编译原理/编译原理作业/assets/assembly-hm6-2.jpg",
+    "编译原理/编译原理作业/assets/assembly-hm6-1.jpg",
+    "编译原理/编译原理作业/作业5.md",
+    "编译原理/编译原理作业/assets/assembly-hm5-1.png",
+    "编译原理/编译原理作业/assets/assembly-hm4-4.jpg",
+    "编译原理/编译原理作业/assets/assembly-hm4-3.jpg",
+    "编译原理/编译原理作业/assets/assembly-hm4-2.png",
+    "编译原理/编译原理作业/assets/assembly-hm4-1.jpg",
+    "编译原理/编译原理作业/作业3.md",
+    "编译原理/编译原理作业/assets/assembly-hm2-3.png",
+    "编译原理/编译原理作业/assets/assembly-hm2-2.png",
+    "编译原理/编译原理作业/assets/assembly-hm2-1.png",
+    "编译原理/编译原理作业/作业7.md",
     "编译原理/编译原理笔记/第3章 词法分析.md",
     "操作系统/实例分析讲稿.md",
     "操作系统/操作系统作业/作业15.md",
@@ -174,19 +184,8 @@
     "计算机图形学基础/！Chapter13 神经辐射场NeRF.md",
     "计算机图形学基础/！Chapter8 网格变形与建模.md",
     "计算机图形学基础/Chapter15 光线跟踪加速.md",
-    "计算机图形学基础/Chapter12 辐射度与渲染方程.md",
     "未命名.canvas",
     "未命名 1.canvas",
-    "pasted image/编译原理 image/IMG_2660.jpg",
-    "pasted image/编译原理 image/IMG_2658.jpg",
-    "pasted image/编译原理 image/IMG_2621.jpg",
-    "pasted image/编译原理 image/cc5f7cd3b610611abe23a18b2f0ba1c.jpg",
-    "pasted image/编译原理 image/11f753cd78d4728cc35337a75b2983a.jpg",
-    "pasted image/编译原理 image/IMG_2659.jpg",
-    "IMG_2656.jpg",
-    "IMG_2657.jpg",
-    "Pasted image 20230322204456.png",
-    "IMG_2648.jpg",
     "第2章 直连网络.md.baiduyun.uploading.cfg",
     "编译原理/编译原理笔记/第3章 词法分析.md.baiduyun.uploading.cfg",
     "计算机网络",
