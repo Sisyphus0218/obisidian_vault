@@ -6,9 +6,10 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "foldHeading": false,
+  "foldHeading": true,
   "useMarkdownLinks": true,
   "newFileLocation": "current",
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "./assets"
+  "attachmentFolderPath": "./assets",
+  "showInlineTitle": false
 }

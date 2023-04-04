@@ -130,7 +130,7 @@ $$
 $$
 l=P_c-R_o
 $$
-![[Pasted image 20221129160752.png]]
+![[assets/Pasted image 20221129160752.png]]
 判断光线起点是否在球内部
 $$
 \begin{aligned}
@@ -145,13 +145,13 @@ $$
 $$
 tp=l\cdot R_d
 $$
-![[Pasted image 20221129160805.png]]
+![[assets/Pasted image 20221129160805.png]]
 若 tp<0，光线与球不相交。
 求tp与球心的距离d
 $$
 d^2=l^2-t_p^2
 $$
-![[Pasted image 20221129160822.png]]
+![[assets/Pasted image 20221129160822.png]]
 若 d>r，光线与球不相交。
 
 **(3) 求最近的的一个交点**
@@ -166,7 +166,7 @@ $$
 若光线起点位于球内\,\,t=t_p+t'
 \end{aligned}
 $$
-![[Pasted image 20221129160927.png]]
+![[assets/Pasted image 20221129160927.png]]
 
 ### 5. 光线与多边形求交
 1. 判断光线是否与多边形所在平面相交
