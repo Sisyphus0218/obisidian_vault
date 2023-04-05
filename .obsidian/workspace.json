@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0a9299570b1ac2ba",
+        "id": "a290a97c5b662631",
         "type": "tabs",
         "children": [
           {
-            "id": "9d0de4b9110d2d9e",
+            "id": "fd571a5553963c0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "并行程序设计/并行程序设计笔记/OpenMP编程.md",
+                "file": "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "并行程序设计/并行程序设计笔记/OpenMP编程.md",
+                "file": "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "并行程序设计/并行程序设计笔记/OpenMP编程.md",
+                "file": "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "并行程序设计/并行程序设计笔记/OpenMP编程.md"
+                "file": "编译原理/编译原理笔记/第5章 语法制导的翻译.md"
               }
             }
           }
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,9 +146,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9d0de4b9110d2d9e",
+  "active": "fd571a5553963c0b",
   "lastOpenFiles": [
+    "编译原理/编译原理笔记/assets/assembly-5-37.png",
+    "编译原理/编译原理笔记/assets/assembly-5-36.png",
+    "编译原理/编译原理笔记/assets/assembly-5-35.png",
+    "编译原理/编译原理笔记/assets/Pasted image 20230405204739.png",
+    "编译原理/编译原理笔记/assets/Pasted image 20230405204611.png",
+    "编译原理/编译原理笔记/assets/Pasted image 20230405204551.png",
+    "编译原理/编译原理笔记/assets/assembly-5-34.png",
+    "编译原理/编译原理笔记/assets/assembly-5-33.png",
+    "编译原理/编译原理笔记/assets/Pasted image 20230405202115.png",
+    "编译原理/编译原理笔记/assets/Pasted image 20230405202029.png",
+    "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
+    "编译原理/编译原理笔记/assets/Pasted image 20230405202009.png",
+    "编译原理/编译原理笔记/第3章 词法分析.md",
     "编译原理/编译原理作业/作业8.md",
+    "assets/Pasted image 20230405133009.png.md",
+    "assets",
+    "编译原理/编译原理笔记/assets/wps1.emf",
+    "未命名",
+    "操作系统/操作系统作业/作业1.md",
+    "操作系统/操作系统作业/作业15.md",
+    "操作系统/实例分析讲稿.md",
+    "并行程序设计/并行程序设计笔记/OpenMP编程.md",
     "编译原理/编译原理作业/作业5.md",
     "编译原理/编译原理作业/作业4.md",
     "编译原理/编译原理作业/作业3.md",
@@ -157,21 +177,9 @@
     "编译原理/编译原理作业/作业1.md",
     "编译原理/编译原理作业/作业6.md",
     "编译原理/编译原理作业/作业7.md",
-    "并行程序设计/并行程序设计笔记/OpenMP编程.md",
     "并行程序设计/并行程序设计作业/SIMD 作业.md",
-    "并行程序设计/并行程序设计作业/assets/parallel-hm1-3.png",
     "并行程序设计/并行程序设计笔记",
     "并行程序设计/并行程序设计作业",
-    "并行程序设计/并行程序设计作业/assets/parallel-hm1-2.png",
-    "并行程序设计/并行程序设计作业/assets/parallel-hm1-1.png",
-    "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
-    "编译原理/编译原理作业/assets/image-20230404203457456.png",
-    "编译原理/编译原理笔记/assets/assembly-5-20.png",
-    "编译原理/编译原理笔记/assets/asse,bly-5-20.png",
-    "编译原理/编译原理笔记/assets/assembly-5-19.png",
-    "编译原理/编译原理笔记/assets/assembly-5-18.png",
-    "编译原理/编译原理笔记/assets/image-20230404182338701.png",
-    "编译原理/编译原理笔记/assets/image-20230404182122146.png",
     "编译原理/编译原理笔记",
     "编译原理/编译原理笔记/assets",
     "未命名.canvas",
@@ -186,15 +194,7 @@
     "计算机图形学基础/Chapter5 数字几何处理.md",
     "计算机图形学基础/Chapter4 光栅图形学.md",
     "计算机图形学基础/Chapter2 图形学基本知识.md",
-    "操作系统/实例分析讲稿.md",
     "并行程序设计",
-    "编译原理/编译原理笔记/第3章 词法分析.md",
-    "操作系统/操作系统作业/作业15.md",
-    "操作系统/操作系统作业/作业10.md",
-    "操作系统/操作系统作业/作业4.md",
-    "未命名 1.canvas",
-    "第2章 直连网络.md.baiduyun.uploading.cfg",
-    "编译原理/编译原理笔记/第3章 词法分析.md.baiduyun.uploading.cfg",
-    "计算机网络"
+    "未命名 1.canvas"
   ]
 }
