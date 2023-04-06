@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
+                "file": "编译原理/编译原理笔记/第4章 语法分析.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
+                "file": "编译原理/编译原理笔记/第4章 语法分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
+                "file": "编译原理/编译原理笔记/第4章 语法分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编译原理/编译原理笔记/第5章 语法制导的翻译.md"
+                "file": "编译原理/编译原理笔记/第4章 语法分析.md"
               }
             }
           }
@@ -148,6 +148,20 @@
   },
   "active": "fd571a5553963c0b",
   "lastOpenFiles": [
+    "编译原理/编译原理笔记/assets/assembly-4-2.png",
+    "编译原理/编译原理笔记/assets/Pasted image 20230406203456.png",
+    "编译原理/编译原理笔记/assets/assembly-4-1.png",
+    "编译原理/编译原理笔记/assets/Pasted image 20230406203422.png",
+    "编译原理/编译原理笔记/第3章 词法分析.md",
+    "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
+    "编译原理/编译原理作业/作业4.md",
+    "编译原理/编译原理作业/作业3.md",
+    "编译原理/编译原理作业/作业2.md",
+    "编译原理/编译原理作业/作业1.md",
+    "编译原理/编译原理作业/作业7.md",
+    "编译原理/编译原理作业/作业6.md",
+    "编译原理/编译原理作业/作业5.md",
+    "编译原理/编译原理笔记/第4章 语法分析.md",
     "编译原理/编译原理笔记/assets/assembly-5-37.png",
     "编译原理/编译原理笔记/assets/assembly-5-36.png",
     "编译原理/编译原理笔记/assets/assembly-5-35.png",
@@ -155,12 +169,6 @@
     "编译原理/编译原理笔记/assets/Pasted image 20230405204611.png",
     "编译原理/编译原理笔记/assets/Pasted image 20230405204551.png",
     "编译原理/编译原理笔记/assets/assembly-5-34.png",
-    "编译原理/编译原理笔记/assets/assembly-5-33.png",
-    "编译原理/编译原理笔记/assets/Pasted image 20230405202115.png",
-    "编译原理/编译原理笔记/assets/Pasted image 20230405202029.png",
-    "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
-    "编译原理/编译原理笔记/assets/Pasted image 20230405202009.png",
-    "编译原理/编译原理笔记/第3章 词法分析.md",
     "编译原理/编译原理作业/作业8.md",
     "assets/Pasted image 20230405133009.png.md",
     "assets",
@@ -170,13 +178,6 @@
     "操作系统/操作系统作业/作业15.md",
     "操作系统/实例分析讲稿.md",
     "并行程序设计/并行程序设计笔记/OpenMP编程.md",
-    "编译原理/编译原理作业/作业5.md",
-    "编译原理/编译原理作业/作业4.md",
-    "编译原理/编译原理作业/作业3.md",
-    "编译原理/编译原理作业/作业2.md",
-    "编译原理/编译原理作业/作业1.md",
-    "编译原理/编译原理作业/作业6.md",
-    "编译原理/编译原理作业/作业7.md",
     "并行程序设计/并行程序设计作业/SIMD 作业.md",
     "并行程序设计/并行程序设计笔记",
     "并行程序设计/并行程序设计作业",
@@ -193,7 +194,6 @@
     "计算机图形学基础/Chapter14 阴影.md",
     "计算机图形学基础/Chapter5 数字几何处理.md",
     "计算机图形学基础/Chapter4 光栅图形学.md",
-    "计算机图形学基础/Chapter2 图形学基本知识.md",
     "并行程序设计",
     "未命名 1.canvas"
   ]
