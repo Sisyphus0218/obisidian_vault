@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a290a97c5b662631",
+        "id": "d1a182156ce5fb80",
         "type": "tabs",
         "children": [
           {
-            "id": "fd571a5553963c0b",
+            "id": "94d082a4d9247b0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编译原理/编译原理笔记/第4章 语法分析.md",
+                "file": "编译原理/编译原理作业/作业9.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编译原理/编译原理笔记/第4章 语法分析.md",
+                "file": "编译原理/编译原理作业/作业9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编译原理/编译原理笔记/第4章 语法分析.md",
+                "file": "编译原理/编译原理作业/作业9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编译原理/编译原理笔记/第4章 语法分析.md"
+                "file": "编译原理/编译原理作业/作业9.md"
               }
             }
           }
@@ -146,14 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fd571a5553963c0b",
+  "active": "94d082a4d9247b0b",
   "lastOpenFiles": [
+    "编译原理/编译原理作业/作业8.md",
+    "编译原理/编译原理作业/作业9.md",
+    "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
+    "编译原理/编译原理笔记/第4章 语法分析.md",
     "编译原理/编译原理笔记/assets/assembly-4-2.png",
     "编译原理/编译原理笔记/assets/Pasted image 20230406203456.png",
     "编译原理/编译原理笔记/assets/assembly-4-1.png",
     "编译原理/编译原理笔记/assets/Pasted image 20230406203422.png",
     "编译原理/编译原理笔记/第3章 词法分析.md",
-    "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
     "编译原理/编译原理作业/作业4.md",
     "编译原理/编译原理作业/作业3.md",
     "编译原理/编译原理作业/作业2.md",
@@ -161,15 +164,12 @@
     "编译原理/编译原理作业/作业7.md",
     "编译原理/编译原理作业/作业6.md",
     "编译原理/编译原理作业/作业5.md",
-    "编译原理/编译原理笔记/第4章 语法分析.md",
     "编译原理/编译原理笔记/assets/assembly-5-37.png",
     "编译原理/编译原理笔记/assets/assembly-5-36.png",
     "编译原理/编译原理笔记/assets/assembly-5-35.png",
     "编译原理/编译原理笔记/assets/Pasted image 20230405204739.png",
     "编译原理/编译原理笔记/assets/Pasted image 20230405204611.png",
     "编译原理/编译原理笔记/assets/Pasted image 20230405204551.png",
-    "编译原理/编译原理笔记/assets/assembly-5-34.png",
-    "编译原理/编译原理作业/作业8.md",
     "assets/Pasted image 20230405133009.png.md",
     "assets",
     "编译原理/编译原理笔记/assets/wps1.emf",
