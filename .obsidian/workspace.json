@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编译原理/编译原理作业/作业9.md",
+                "file": "编译原理/编译原理笔记/第4章 语法分析.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 347.5
   },
   "right": {
     "id": "b0cdade28f912586",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编译原理/编译原理作业/作业9.md",
+                "file": "编译原理/编译原理笔记/第4章 语法分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编译原理/编译原理作业/作业9.md",
+                "file": "编译原理/编译原理笔记/第4章 语法分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编译原理/编译原理作业/作业9.md"
+                "file": "编译原理/编译原理笔记/第4章 语法分析.md"
               }
             }
           }
@@ -158,19 +157,23 @@
   },
   "active": "94d082a4d9247b0b",
   "lastOpenFiles": [
+    "编译原理/编译原理笔记/assets/compile-5-51.png",
+    "编译原理/编译原理笔记/assets/compile-5-50.png",
+    "编译原理/编译原理笔记/assets/image-20230410135753067.png",
+    "编译原理/编译原理笔记/assets/image-20230410135746342.png",
+    "编译原理/编译原理笔记/assets/compile-5-49.png",
+    "编译原理/编译原理笔记/assets/compile-5-48.png",
+    "编译原理/编译原理笔记/assets/compile-5-47.png",
+    "编译原理/编译原理笔记/assets/compile-5-46.png",
+    "编译原理/编译原理笔记/assets/image-20230410134251373.png",
+    "编译原理/编译原理笔记/assets/image-20230410134245055.png",
+    "编译原理/编译原理笔记/assets/image-20230410134237503.png",
+    "编译原理/编译原理作业/作业9.md",
     "编译原理/编译原理笔记/第3章 词法分析.md",
     "汇编语言/7 基础指令2.md",
     "编译原理/编译原理笔记/第4章 语法分析.md",
-    "编译原理/编译原理笔记/assets/assembly-4-9.png",
-    "编译原理/编译原理笔记/assets/assembly-4-8.png",
-    "编译原理/编译原理笔记/assets/image-20230408203929813.png",
-    "编译原理/编译原理作业/作业9.md",
     "编译原理/编译原理作业/作业8.md",
     "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
-    "编译原理/编译原理笔记/assets/assembly-4-2.png",
-    "编译原理/编译原理笔记/assets/Pasted image 20230406203456.png",
-    "编译原理/编译原理笔记/assets/assembly-4-1.png",
-    "编译原理/编译原理笔记/assets/Pasted image 20230406203422.png",
     "编译原理/编译原理作业/作业4.md",
     "编译原理/编译原理作业/作业3.md",
     "编译原理/编译原理作业/作业2.md",
@@ -178,9 +181,6 @@
     "编译原理/编译原理作业/作业7.md",
     "编译原理/编译原理作业/作业6.md",
     "编译原理/编译原理作业/作业5.md",
-    "编译原理/编译原理笔记/assets/assembly-5-37.png",
-    "编译原理/编译原理笔记/assets/assembly-5-36.png",
-    "编译原理/编译原理笔记/assets/assembly-5-35.png",
     "assets/Pasted image 20230405133009.png.md",
     "assets",
     "编译原理/编译原理笔记/assets/wps1.emf",
@@ -203,7 +203,6 @@
     "并行程序设计/并行程序设计作业/assets",
     "并行程序设计/新建文件夹",
     "计算机图形学基础/Chapter14 阴影.md",
-    "计算机图形学基础/Chapter5 数字几何处理.md",
     "并行程序设计",
     "未命名 1.canvas"
   ]
