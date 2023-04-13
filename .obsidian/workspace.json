@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d1a182156ce5fb80",
+        "id": "e15fb7e84490ca80",
         "type": "tabs",
         "children": [
           {
-            "id": "94d082a4d9247b0b",
+            "id": "5bb8ca7f3b92fc27",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,14 +17,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "673a2169dde1a3ad",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -152,11 +144,14 @@
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "94d082a4d9247b0b",
+  "active": "5bb8ca7f3b92fc27",
   "lastOpenFiles": [
+    "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
+    "编译原理/编译原理笔记/第4章 语法分析.md",
     "编译原理/编译原理笔记/assets/compile-5-51.png",
     "编译原理/编译原理笔记/assets/compile-5-50.png",
     "编译原理/编译原理笔记/assets/image-20230410135753067.png",
@@ -167,13 +162,10 @@
     "编译原理/编译原理笔记/assets/compile-5-46.png",
     "编译原理/编译原理笔记/assets/image-20230410134251373.png",
     "编译原理/编译原理笔记/assets/image-20230410134245055.png",
-    "编译原理/编译原理笔记/assets/image-20230410134237503.png",
     "编译原理/编译原理作业/作业9.md",
     "编译原理/编译原理笔记/第3章 词法分析.md",
     "汇编语言/7 基础指令2.md",
-    "编译原理/编译原理笔记/第4章 语法分析.md",
     "编译原理/编译原理作业/作业8.md",
-    "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
     "编译原理/编译原理作业/作业4.md",
     "编译原理/编译原理作业/作业3.md",
     "编译原理/编译原理作业/作业2.md",
