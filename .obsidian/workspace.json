@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e15fb7e84490ca80",
+        "id": "238db765de92cdc1",
         "type": "tabs",
         "children": [
           {
-            "id": "5bb8ca7f3b92fc27",
+            "id": "7e948eb014388af7",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "编译原理/编译原理笔记/第3章 词法分析.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -148,28 +150,31 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "5bb8ca7f3b92fc27",
+  "active": "7e948eb014388af7",
   "lastOpenFiles": [
+    "编译原理/编译原理笔记/assets/compile-3/compile-3-9.png",
+    "编译原理/编译原理笔记/第3章 词法分析.md",
+    "编译原理/编译原理笔记/assets/compile-3/compile-3-8.png",
+    "编译原理/编译原理笔记/assets/compile-3/compile-3-7.png",
+    "编译原理/编译原理笔记/assets/compile-3/compile-3-6.png",
+    "编译原理/编译原理笔记/assets/Pasted image 20230413230221.png",
+    "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
+    "编译原理/编译原理笔记/assets/compile-5/compile-5-1.png",
+    "编译原理/编译原理笔记/assets/compile-4/compile-4-1.png",
+    "编译原理/编译原理笔记/assets/compile-5",
+    "编译原理/编译原理笔记/assets/compile-4",
+    "编译原理/编译原理笔记/assets/compile-3/compile-3-1.png",
+    "编译原理/编译原理笔记/assets/compile-3",
     "Excalidraw/Drawing 2023-04-13 13.31.39.excalidraw.md",
     "Excalidraw/Drawing 2023-04-13 13.31.36.excalidraw.md",
     "Excalidraw/Drawing 2023-04-13 13.29.17.excalidraw.md",
     "Excalidraw/Drawing 2023-04-13 13.29.17.excalidraw.png",
     "Excalidraw/Drawing 2023-04-13 13.28.53.excalidraw.md",
     "Excalidraw/Drawing 2023-04-13 13.29.10.excalidraw.md",
-    "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
     "编译原理/编译原理笔记/第4章 语法分析.md",
     "Excalidraw",
-    "编译原理/编译原理笔记/assets/compile-5-51.png",
-    "编译原理/编译原理笔记/assets/compile-5-50.png",
-    "编译原理/编译原理笔记/assets/image-20230410135753067.png",
-    "编译原理/编译原理笔记/assets/image-20230410135746342.png",
-    "编译原理/编译原理笔记/assets/compile-5-49.png",
-    "编译原理/编译原理笔记/assets/compile-5-48.png",
-    "编译原理/编译原理笔记/assets/compile-5-47.png",
-    "编译原理/编译原理笔记/assets/compile-5-46.png",
-    "编译原理/编译原理笔记/assets/image-20230410134251373.png",
+    "编译原理/编译原理笔记/assets/compile-5/compile-5-51.png",
     "编译原理/编译原理作业/作业9.md",
-    "编译原理/编译原理笔记/第3章 词法分析.md",
     "汇编语言/7 基础指令2.md",
     "编译原理/编译原理作业/作业8.md",
     "编译原理/编译原理作业/作业4.md",
@@ -182,7 +187,6 @@
     "assets/Pasted image 20230405133009.png.md",
     "assets",
     "编译原理/编译原理笔记/assets/wps1.emf",
-    "未命名",
     "操作系统/操作系统作业/作业1.md",
     "操作系统/操作系统作业/作业15.md",
     "操作系统/实例分析讲稿.md",
@@ -194,9 +198,6 @@
     "编译原理/编译原理笔记/assets",
     "未命名.canvas",
     "编译原理/OpenMP.md",
-    "第5章 语法制导的翻译.md",
-    "并行程序设计/并行程序设计作业/assets",
-    "并行程序设计/新建文件夹",
     "未命名 1.canvas"
   ]
 }
