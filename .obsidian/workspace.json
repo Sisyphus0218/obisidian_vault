@@ -20,6 +20,16 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "9f9196241404ea5c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "计算机网络/计算机网络笔记/assets/net-3-12.png"
+              }
+            }
           }
         ]
       }
@@ -151,23 +161,22 @@
   },
   "active": "c4e103c087d0d52e",
   "lastOpenFiles": [
-    "计算机网络/计算机网络笔记/assets/Pasted image 20230417000737.png",
-    "计算机网络/计算机网络笔记/assets/Pasted image 20230416215359.png",
-    "未命名.canvas",
+    "计算机网络/计算机网络笔记/assets/net-3-12.png",
+    "计算机网络/计算机网络笔记/assets/net-3-11.png",
+    "计算机网络/计算机网络笔记/assets/net-3-10.png",
+    "计算机网络/计算机网络笔记/assets/net-3-9.png",
+    "计算机网络/计算机网络笔记/assets/net-3-8.png",
     "计算机网络/计算机网络笔记/第3章 网络互联.md",
+    "未命名.canvas",
     "计算机体系结构基础/计算机体系结构基础笔记/重点.md",
     "编译原理/编译原理作业/作业7.md",
     "汇编语言/第6章 过程调用.md",
-    "计算机网络/计算机网络笔记/assets/Pasted image 20230416213934.png",
-    "计算机网络/计算机网络笔记/assets/Pasted image 20230416213747.png",
     "计算机网络/计算机网络作业/第一次作业.md",
-    "计算机网络/计算机网络笔记/assets/Pasted image 20230416204439.png",
     "计算机网络/计算机网络笔记/assets/net-3-7.png",
     "计算机网络/计算机网络笔记/assets/net-3-6.png",
     "计算机网络/计算机网络笔记/assets/net-3-5.png",
     "计算机网络/计算机网络笔记/assets/net-3-4.png",
     "计算机网络/计算机网络笔记/assets/net-3-3.png",
-    "计算机网络/计算机网络笔记/assets/net-3-2.png",
     "计算机网络/计算机网络笔记/第2章 直连网络.md",
     "编译原理/编译原理笔记/第3章 词法分析.md",
     "计算机网络/计算机网络作业/assets",
