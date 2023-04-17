@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a582ec480e8609b3",
+        "id": "abf79da1ded340b0",
         "type": "tabs",
         "children": [
           {
-            "id": "c4e103c087d0d52e",
+            "id": "83a83ad40a2127af",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/计算机网络笔记/第3章 网络互联.md",
+                "file": "编译原理/编译原理笔记/第4章 语法分析.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,16 +22,36 @@
             }
           },
           {
-            "id": "9f9196241404ea5c",
+            "id": "b1244e518f1f171c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "编译原理/编译原理笔记/词法分析与语法分析.canvas",
+                "viewState": {
+                  "x": 78.30326811225129,
+                  "y": 226.81650396510167,
+                  "zoom": -0.4166666666666666
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a480bbade5f53ede",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "计算机网络/计算机网络笔记/assets/net-3-12.png"
+                "file": "编译原理/编译原理笔记/第4章 语法分析.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 299.5
   },
   "right": {
     "id": "b0cdade28f912586",
@@ -97,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/计算机网络笔记/第3章 网络互联.md",
+                "file": "编译原理/编译原理笔记/第4章 语法分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/计算机网络笔记/第3章 网络互联.md",
+                "file": "编译原理/编译原理笔记/第4章 语法分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/计算机网络笔记/第3章 网络互联.md"
+                "file": "编译原理/编译原理笔记/第4章 语法分析.md"
               }
             }
           }
@@ -146,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,26 +179,28 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "c4e103c087d0d52e",
+  "active": "a480bbade5f53ede",
   "lastOpenFiles": [
+    "编译原理/编译原理笔记/词法分析与语法分析.canvas",
+    "编译原理/编译原理笔记/第4章 语法分析.md",
+    "计算机体系结构基础/计算机体系结构基础笔记/重点.md",
+    "计算机体系结构基础/计算机体系结构基础笔记/第4章 软硬件协同.md",
+    "编译原理/编译原理笔记/第3章 词法分析.md",
+    "编译原理/编译原理笔记/assets/compile-3/compile-3-30.png",
+    "编译原理/编译原理笔记/assets/compile-3/compile-3-31.png",
+    "计算机网络/计算机网络笔记/第3章 网络互联.md",
     "计算机网络/计算机网络笔记/assets/net-3-12.png",
     "计算机网络/计算机网络笔记/assets/net-3-11.png",
     "计算机网络/计算机网络笔记/assets/net-3-10.png",
     "计算机网络/计算机网络笔记/assets/net-3-9.png",
     "计算机网络/计算机网络笔记/assets/net-3-8.png",
-    "计算机网络/计算机网络笔记/第3章 网络互联.md",
-    "未命名.canvas",
-    "计算机体系结构基础/计算机体系结构基础笔记/重点.md",
     "编译原理/编译原理作业/作业7.md",
     "汇编语言/第6章 过程调用.md",
     "计算机网络/计算机网络作业/第一次作业.md",
     "计算机网络/计算机网络笔记/assets/net-3-7.png",
     "计算机网络/计算机网络笔记/assets/net-3-6.png",
     "计算机网络/计算机网络笔记/assets/net-3-5.png",
-    "计算机网络/计算机网络笔记/assets/net-3-4.png",
-    "计算机网络/计算机网络笔记/assets/net-3-3.png",
     "计算机网络/计算机网络笔记/第2章 直连网络.md",
-    "编译原理/编译原理笔记/第3章 词法分析.md",
     "计算机网络/计算机网络作业/assets",
     "计算机网络/计算机网络作业",
     "计算机网络/计算机网络笔记",
@@ -187,7 +209,6 @@
     "计算机网络",
     "编译原理/编译原理作业/作业3.md",
     "编译原理/编译原理作业/作业2.md",
-    "编译原理/编译原理笔记/第4章 语法分析.md",
     "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
     "计算机网络",
     "编译原理/编译原理笔记/assets/compile-5",
@@ -206,7 +227,6 @@
     "编译原理/编译原理作业/作业6.md",
     "编译原理/编译原理作业/作业5.md",
     "assets/Pasted image 20230405133009.png.md",
-    "操作系统/操作系统作业/作业1.md",
     "未命名 1.canvas"
   ]
 }
