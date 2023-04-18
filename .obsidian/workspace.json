@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d0e86bf6bd5661e0",
+        "id": "b430e51d138b04ab",
         "type": "tabs",
         "children": [
           {
-            "id": "780e4c1698bcda36",
+            "id": "0b2975d94844c59b",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编译原理/编译原理作业/作业10.md",
+                "file": "编译原理/编译原理笔记/第4章 语法分析.md",
                 "mode": "source",
                 "source": false
               },
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编译原理/编译原理笔记/第6章 中间代码生成.md",
+                "file": "编译原理/编译原理笔记/第4章 语法分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编译原理/编译原理笔记/第6章 中间代码生成.md",
+                "file": "编译原理/编译原理笔记/第4章 语法分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编译原理/编译原理笔记/第6章 中间代码生成.md"
+                "file": "编译原理/编译原理笔记/第4章 语法分析.md"
               }
             }
           }
@@ -150,33 +150,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c1e2da38f0cc7076",
+  "active": "0b2975d94844c59b",
   "lastOpenFiles": [
+    "编译原理/编译原理笔记/词法分析与语法分析.canvas",
+    "编译原理/编译原理笔记/第4章 语法分析.md",
+    "编译原理/编译原理笔记/assets/compile-4/compile-4-29.png",
+    "编译原理/编译原理笔记/assets/compile-4/compile-4-30.png",
+    "编译原理/编译原理笔记/assets/compile-4/compile-4-45.png",
+    "编译原理/编译原理笔记/assets/compile-4/compile-4-44.png",
+    "编译原理/编译原理笔记/assets/compile-4/compile-4-43.png",
+    "编译原理/编译原理笔记/assets/compile-4/compile-4-42.png",
+    "编译原理/编译原理笔记/assets/compile-4/compile-4-41.png",
+    "编译原理/编译原理笔记/assets/compile-4/compile-4-40.png",
+    "编译原理/编译原理笔记/assets/compile-4/compile-4-39.png",
+    "编译原理/编译原理笔记/assets/compile-4/compile-4-38.png",
+    "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
+    "编译原理/编译原理笔记/第6章 中间代码生成.md",
+    "汇编语言/第7章 基础指令（二）.md",
+    "汇编语言/第6章 过程调用.md",
     "编译原理/编译原理作业/作业10.md",
     "Excalidraw/Drawing 2023-04-17 22.36.29.excalidraw.md",
     "Excalidraw/Drawing 2023-04-17 21.57.27.excalidraw.md",
-    "编译原理/编译原理作业/assets/compile-hm10-3.png",
-    "编译原理/编译原理作业/assets/compile-hm10-2.png",
-    "编译原理/编译原理作业/assets/compile-hm2-1.png",
     "编译原理/编译原理作业/作业6.md",
-    "编译原理/编译原理作业/assets/compile-hm10-1.png",
-    "Excalidraw/Drawing 2023-04-17 21.57.27.excalidraw.png",
-    "编译原理/编译原理笔记/第6章 中间代码生成.md",
     "编译原理/编译原理作业/作业9.md",
     "计算机网络/计算机网络作业/第一次作业.md",
-    "计算机网络/计算机网络作业/assets/Pasted image 20230417210854.png",
-    "计算机网络/计算机网络作业/assets/Pasted image 20230417210815.png",
-    "计算机网络/计算机网络作业/assets/Pasted image 20230417210704.png",
-    "计算机网络/计算机网络作业/assets/Pasted image 20230417210604.png",
-    "计算机网络/计算机网络作业/assets/Pasted image 20230417210512.png",
     "计算机网络/计算机网络笔记/第3章 网络互联.md",
-    "编译原理/编译原理笔记/词法分析与语法分析.canvas",
-    "编译原理/编译原理笔记/第4章 语法分析.md",
     "计算机体系结构基础/计算机体系结构基础笔记/重点.md",
     "计算机体系结构基础/计算机体系结构基础笔记/第4章 软硬件协同.md",
     "编译原理/编译原理笔记/第3章 词法分析.md",
     "编译原理/编译原理作业/作业7.md",
-    "汇编语言/第6章 过程调用.md",
     "计算机网络/计算机网络笔记/第2章 直连网络.md",
     "计算机网络/计算机网络作业/assets",
     "计算机网络/计算机网络作业",
@@ -185,7 +187,6 @@
     "计算机网络",
     "编译原理/编译原理作业/作业3.md",
     "编译原理/编译原理作业/作业2.md",
-    "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
     "计算机网络",
     "编译原理/编译原理笔记/assets/compile-5",
     "编译原理/编译原理笔记/assets/compile-4",
@@ -197,7 +198,6 @@
     "Excalidraw/Drawing 2023-04-13 13.29.10.excalidraw.md",
     "Excalidraw",
     "汇编语言/7 基础指令2.md",
-    "编译原理/编译原理作业/作业8.md",
     "未命名 1.canvas"
   ]
 }
