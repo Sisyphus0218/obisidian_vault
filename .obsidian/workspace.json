@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b430e51d138b04ab",
+        "id": "3d38d79ea5f4c5bc",
         "type": "tabs",
         "children": [
           {
-            "id": "0b2975d94844c59b",
+            "id": "0d3a61e24bbac4ae",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "编译原理/编译原理笔记/第4章 语法分析.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+                "file": "编译原理/编译原理笔记/词法分析与语法分析.canvas",
+                "viewState": {
+                  "x": 437.5,
+                  "y": 160,
+                  "zoom": -1.1798821260204868
+                }
+              }
             }
           }
         ]
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/计算机网络作业/第一次作业.md",
+                "file": "编译原理/编译原理笔记/词法分析与语法分析.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/计算机网络作业/第一次作业.md",
+                "file": "编译原理/编译原理笔记/词法分析与语法分析.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/计算机网络作业/第一次作业.md"
+                "file": "编译原理/编译原理笔记/词法分析与语法分析.canvas"
               }
             }
           }
@@ -150,54 +151,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c1e2da38f0cc7076",
+  "active": "0d3a61e24bbac4ae",
   "lastOpenFiles": [
     "编译原理/编译原理笔记/第4章 语法分析.md",
-    "汇编语言/第6章 过程调用.md",
-    "编译原理/编译原理笔记/assets/Pasted image 20230419115157.png",
-    "编译原理/编译原理笔记/assets/Pasted image 20230419114633.png",
-    "编译原理/编译原理笔记/assets/Pasted image 20230419114609.png",
-    "编译原理/编译原理笔记/assets/Pasted image 20230419114531.png",
-    "计算机网络/计算机网络笔记/第3章 网络互联.md",
-    "计算机网络/计算机网络作业/第一次作业.md",
-    "编译原理/编译原理作业/作业10.md",
+    "编译原理/编译原理笔记/第3章 词法分析.md",
+    "编译原理/编译原理作业/作业7.md",
+    "编译原理/编译原理作业/作业6.md",
+    "编译原理/编译原理作业/作业5.md",
     "编译原理/编译原理笔记/词法分析与语法分析.canvas",
-    "编译原理/编译原理笔记/assets/compile-4/compile-4-29.png",
-    "编译原理/编译原理笔记/assets/compile-4/compile-4-30.png",
-    "编译原理/编译原理笔记/assets/compile-4/compile-4-45.png",
-    "编译原理/编译原理笔记/assets/compile-4/compile-4-44.png",
-    "编译原理/编译原理笔记/assets/compile-4/compile-4-43.png",
-    "编译原理/编译原理笔记/assets/compile-4/compile-4-42.png",
+    "编译原理/编译原理作业/作业4.md",
+    "编译原理/编译原理作业/作业3.md",
+    "编译原理/编译原理作业/作业1.md",
+    "编译原理/编译原理作业/作业2.md",
+    "编译原理/编译原理作业/作业8.md",
+    "编译原理/编译原理笔记/assets/compile-4/compile-4-46.png",
+    "编译原理/编译原理笔记/assets/compile-4/compile-4-48.png",
+    "编译原理/编译原理笔记/assets/compile-4/compile-4-47.png",
+    "计算机网络/计算机网络作业/第一次作业.md",
+    "计算机网络/计算机网络作业/assets/net-hm1-9.png",
+    "计算机网络/计算机网络作业/assets/net-hm1-8.png",
+    "计算机网络/计算机网络作业/assets/net-hm1-7.png",
+    "计算机网络/计算机网络作业/assets/net-hm1-6.png",
+    "计算机网络/计算机网络作业/assets/net-hm1-5.png",
+    "计算机网络/计算机网络作业/assets/net-hm1-4.png",
+    "计算机网络/计算机网络作业/assets/net-hm1-3.png",
+    "汇编语言/第6章 过程调用.md",
+    "计算机网络/计算机网络笔记/第3章 网络互联.md",
+    "编译原理/编译原理作业/作业10.md",
     "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
     "编译原理/编译原理笔记/第6章 中间代码生成.md",
     "汇编语言/第7章 基础指令（二）.md",
     "Excalidraw/Drawing 2023-04-17 22.36.29.excalidraw.md",
     "Excalidraw/Drawing 2023-04-17 21.57.27.excalidraw.md",
-    "编译原理/编译原理作业/作业6.md",
     "编译原理/编译原理作业/作业9.md",
     "计算机体系结构基础/计算机体系结构基础笔记/重点.md",
     "计算机体系结构基础/计算机体系结构基础笔记/第4章 软硬件协同.md",
-    "编译原理/编译原理笔记/第3章 词法分析.md",
-    "编译原理/编译原理作业/作业7.md",
     "计算机网络/计算机网络笔记/第2章 直连网络.md",
     "计算机网络/计算机网络作业/assets",
     "计算机网络/计算机网络作业",
     "计算机网络/计算机网络笔记",
     "计算机网络/计算机网络笔记/assets",
     "计算机网络",
-    "编译原理/编译原理作业/作业3.md",
-    "编译原理/编译原理作业/作业2.md",
     "计算机网络",
     "编译原理/编译原理笔记/assets/compile-5",
     "编译原理/编译原理笔记/assets/compile-4",
     "编译原理/编译原理笔记/assets/compile-3",
     "Excalidraw/Drawing 2023-04-13 13.31.39.excalidraw.md",
     "Excalidraw/Drawing 2023-04-13 13.31.36.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-13 13.29.17.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-13 13.28.53.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-13 13.29.10.excalidraw.md",
     "Excalidraw",
-    "汇编语言/7 基础指令2.md",
     "未命名 1.canvas"
   ]
 }
