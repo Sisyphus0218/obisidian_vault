@@ -11,14 +11,11 @@
             "id": "0d3a61e24bbac4ae",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "编译原理/编译原理笔记/词法分析与语法分析.canvas",
-                "viewState": {
-                  "x": 437.5,
-                  "y": 160,
-                  "zoom": -1.1798821260204868
-                }
+                "file": "编译原理/编译原理笔记/第4章 语法分析.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编译原理/编译原理笔记/词法分析与语法分析.canvas",
+                "file": "编译原理/编译原理笔记/第4章 语法分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编译原理/编译原理笔记/词法分析与语法分析.canvas",
+                "file": "编译原理/编译原理笔记/第4章 语法分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编译原理/编译原理笔记/词法分析与语法分析.canvas"
+                "file": "编译原理/编译原理笔记/第4章 语法分析.md"
               }
             }
           }
@@ -153,12 +150,12 @@
   },
   "active": "0d3a61e24bbac4ae",
   "lastOpenFiles": [
-    "编译原理/编译原理笔记/第4章 语法分析.md",
     "编译原理/编译原理笔记/第3章 词法分析.md",
+    "编译原理/编译原理笔记/词法分析与语法分析.canvas",
+    "编译原理/编译原理笔记/第4章 语法分析.md",
     "编译原理/编译原理作业/作业7.md",
     "编译原理/编译原理作业/作业6.md",
     "编译原理/编译原理作业/作业5.md",
-    "编译原理/编译原理笔记/词法分析与语法分析.canvas",
     "编译原理/编译原理作业/作业4.md",
     "编译原理/编译原理作业/作业3.md",
     "编译原理/编译原理作业/作业1.md",
