@@ -33,13 +33,13 @@ Vectorization
 f = np.dot(w,x) + b
 ```
 
-![](assets/week2-1.png)
+![](assets/week2/week2-1.png)
 
 ### Gradient Descent for Multiple Regression
 
-![](assets/week2-2.png)
+![](assets/week2/week2-2.png)
 
-![](assets/week2-3.png)
+![](assets/week2/week2-3.png)
 
 ### An Alternative to Gradient Descent
 Normal equation
@@ -55,3 +55,25 @@ What you need to know
 - Gradient descent is the recommended method for finding parameters w,b
 
 ## Gradient descent in practice
+### Feature scaling
+
+![](assets/week2/week2-4.png)
+
+![](assets/week2/week2-5.png)
+
+1. Mean normalization
+2. Z-score normalization
+
+### Choose the learning rate
+
+![](assets/week2/week2-6.png)
+
+### Feature engineering
+
+![](assets/week2/week2-7.png)
+
+### Polynomial Regression
+
+![](assets/week2/week2-8.png)
+
+![](assets/week2/week2-9.png)

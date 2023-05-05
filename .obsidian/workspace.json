@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b3d1538990f754d4",
+        "id": "ed34cf7a2f0f8c1f",
         "type": "tabs",
         "children": [
           {
-            "id": "24193bdac409e245",
+            "id": "8feaac3c74d67ef9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "有趣的课程/Machine Learning/Supervised Machine Learning/Week2.md",
+                "file": "汇编语言/第8章 数据.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -64,12 +66,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "597b429224b63dc4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 253.5
   },
   "right": {
     "id": "b0cdade28f912586",
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "有趣的课程/Machine Learning/Supervised Machine Learning/Week2.md",
+                "file": "汇编语言/第8章 数据.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "有趣的课程/Machine Learning/Supervised Machine Learning/Week2.md",
+                "file": "汇编语言/第8章 数据.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "有趣的课程/Machine Learning/Supervised Machine Learning/Week2.md"
+                "file": "汇编语言/第8章 数据.md"
               }
             }
           },
@@ -142,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 322.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,54 +166,54 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "24193bdac409e245",
+  "active": "c1e2da38f0cc7076",
   "lastOpenFiles": [
-    "有趣的课程/Machine Learning/Supervised Machine Learning/assets/week2-3.png",
-    "有趣的课程/Machine Learning/Supervised Machine Learning/assets/week2-2.png",
-    "有趣的课程/Machine Learning/Supervised Machine Learning/assets/week2-1.png",
-    "有趣的课程/Machine Learning/Supervised Machine Learning/Week2.md",
-    "有趣的课程/Machine Learning/Supervised Machine Learning/Week1.md",
+    "2023-05-05.md",
+    "TODO.md",
+    "Daily",
+    "汇编语言/未命名.md",
+    "汇编语言/第8章 数据.md",
+    "TODO",
+    "UCAS",
+    "汇编语言/assets/Pasted image 20230504193846.png",
+    "汇编语言/assets/Pasted image 20230418151002.png",
+    "汇编语言/assets/Pasted image 20230418150956.png",
+    "汇编语言/第7章 基础指令（二）.md",
+    "汇编语言/第6章 过程调用.md",
+    "编译原理/编译原理笔记/第6章 中间代码生成.md",
+    "编译原理/编译原理作业/作业11.md",
+    "编译原理/编译原理作业/assets/compile-hm11-1.png",
+    "Excalidraw/Drawing 2023-05-04 17.12.17.excalidraw.md",
+    "编译原理/编译原理作业/未命名.md",
+    "编译原理/编译原理作业/作业10.md",
+    "编译原理/编译原理作业/作业8.md",
+    "编译原理/编译原理作业/作业9.md",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/Week2.md",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/Week3.md",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/Pasted image 20230504162347.png",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/Pasted image 20230504162303.png",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/Pasted image 20230504162259.png",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/Pasted image 20230504162156.png",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/Pasted image 20230504162151.png",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/Pasted image 20230504162146.png",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week3",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week2",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week1",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/Week1.md",
+    "编译原理/编译原理笔记/assets/compile-6",
+    "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
     "编译原理/编译原理作业/作业2.md",
     "编译原理/编译原理作业/作业7.md",
     "编译原理/编译原理作业/作业5.md",
-    "编译原理/编译原理作业/作业8.md",
-    "编译原理/编译原理作业/作业9.md",
     "编译原理/编译原理作业/作业6.md",
     "编译原理/编译原理作业/作业3.md",
     "编译原理/编译原理作业/作业4.md",
-    "有趣的课程/Machine Learning/Supervised Machine Learning/assets/week1-12.png",
-    "有趣的课程/Machine Learning/Supervised Machine Learning/assets/week1-11.png",
-    "有趣的课程/Machine Learning/Supervised Machine Learning/assets/week1-10.png",
-    "有趣的课程/Machine Learning/Supervised Machine Learning/assets/week1-9.png",
-    "有趣的课程/Machine Learning/Supervised Machine Learning/assets/week1-8.png",
-    "有趣的课程/Machine Learning/Supervised Machine Learning/assets/week1-7.png",
-    "有趣的课程/Machine Learning/Supervised Machine Learning/assets/week1-6.png",
-    "有趣的课程/Machine Learning/Supervised Machine Learning/assets",
-    "有趣的课程/Machine Learning/Supervised Machine Learning",
-    "未命名",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/assets",
+    "SelfStudy/Machine Learning/Supervised Machine Learning",
     "计算机网络/计算机网络笔记/第4章 网络互联.md",
     "计算机网络/计算机网络作业/第一次作业.md",
-    "计算机网络/计算机网络笔记/第3章 交换网络.md",
-    "计算机网络/计算机网络笔记/第2章 直连网络.md",
-    "有趣的课程/Machine Learning",
-    "2023-04-25.md",
-    "有趣的课程/一些课程.md",
-    "Excalidraw/Drawing 2023-04-21 18.24.27.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-20 15.21.35.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-17 21.57.27.excalidraw.md",
-    "计算机网络/计算机网络笔记/assets/net-3",
-    "计算机网络/计算机网络作业/assets/net-hm1",
-    "计算机网络/计算机网络笔记/assets/net-4",
-    "计算机网络/计算机网络笔记/assets/net-2",
-    "计算机网络/计算机网络笔记/错题整理.md",
-    "计算机网络/计算机网络笔记/第1章 计算机网络概述.md",
-    "有趣的课程",
-    "编译原理/编译原理笔记/第6章 中间代码生成.md",
-    "编译原理/编译原理作业/作业10.md",
-    "编译原理/编译原理笔记/第3章 词法分析.md",
-    "编译原理/编译原理笔记/第4章 语法分析.md",
+    "SelfStudy/Machine Learning",
     "编译原理/编译原理笔记/词法分析与语法分析.canvas",
-    "计算机网络/计算机网络作业/assets",
     "未命名 1.canvas"
   ]
 }
