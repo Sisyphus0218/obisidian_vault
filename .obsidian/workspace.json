@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ed34cf7a2f0f8c1f",
+        "id": "b753c9f9ad0a4186",
         "type": "tabs",
         "children": [
           {
-            "id": "8feaac3c74d67ef9",
+            "id": "75bdabd5202ea5e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "汇编语言/第8章 数据.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2594db11fa173654",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SelfStudy/python/numpy.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TODO.md"
+              }
             }
           },
           {
@@ -122,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,11 +193,11 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "c1e2da38f0cc7076",
+  "active": "75bdabd5202ea5e8",
   "lastOpenFiles": [
+    "汇编语言/第8章 数据.md",
     "SelfStudy/python/numpy.md",
     "SelfStudy/JavaScript.md",
-    "汇编语言/第8章 数据.md",
     "SelfStudy/python",
     "编译原理/编译原理研讨课 PR003.md",
     "SelfStudy/Machine Learning/Supervised Machine Learning/Week3.md",
