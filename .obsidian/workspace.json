@@ -10,18 +10,29 @@
           {
             "id": "8feaac3c74d67ef9",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "汇编语言/第8章 数据.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
+            }
+          },
+          {
+            "id": "2594db11fa173654",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SelfStudy/python/numpy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,12 +101,27 @@
         "type": "tabs",
         "children": [
           {
+            "id": "63390faa1cf77eee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4ad31766dd4d1b35",
+            "type": "leaf",
+            "state": {
+              "type": "langr-search-panel",
+              "state": {}
+            }
+          },
+          {
             "id": "68b5037eeabbe212",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "汇编语言/第8章 数据.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "汇编语言/第8章 数据.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,29 +155,36 @@
             }
           },
           {
-            "id": "63390faa1cf77eee",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "汇编语言/第8章 数据.md"
-              }
-            }
-          },
-          {
             "id": "2e02703fb58467bf",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "5eb764be4305c1ef",
+            "type": "leaf",
+            "state": {
+              "type": "langr-stat",
+              "state": {}
+            }
+          },
+          {
+            "id": "83f687132e3a9685",
+            "type": "leaf",
+            "state": {
+              "type": "langr-learn-panel",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 238.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,43 +195,51 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-language-learner:打开查词面板": false,
+      "obsidian-language-learner:打开新词面板": false,
+      "obsidian-language-learner:打开统计": false,
+      "obsidian-language-learner:单词列表": false
     }
   },
   "active": "c1e2da38f0cc7076",
   "lastOpenFiles": [
+    "SelfStudy/python/numpy.md",
+    "SelfStudy/JavaScript.md",
+    "汇编语言/第8章 数据.md",
+    "SelfStudy/python",
+    "编译原理/编译原理研讨课 PR003.md",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/Week3.md",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/Week2.md",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/Week1.md",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week3/week3-1.png",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week3/week3-12.png",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week3/week3-11.png",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week3/week3-10.png",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week3/week3-9.png",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week3/week3-8.png",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week3/week3-7.png",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week3/week3-6.png",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week3/week3-5.png",
+    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week3/week3-4.png",
+    "未命名.canvas",
     "2023-05-05.md",
     "TODO.md",
     "Daily",
-    "汇编语言/未命名.md",
-    "汇编语言/第8章 数据.md",
     "TODO",
     "UCAS",
-    "汇编语言/assets/Pasted image 20230504193846.png",
-    "汇编语言/assets/Pasted image 20230418151002.png",
-    "汇编语言/assets/Pasted image 20230418150956.png",
     "汇编语言/第7章 基础指令（二）.md",
     "汇编语言/第6章 过程调用.md",
     "编译原理/编译原理笔记/第6章 中间代码生成.md",
     "编译原理/编译原理作业/作业11.md",
-    "编译原理/编译原理作业/assets/compile-hm11-1.png",
     "Excalidraw/Drawing 2023-05-04 17.12.17.excalidraw.md",
     "编译原理/编译原理作业/未命名.md",
     "编译原理/编译原理作业/作业10.md",
     "编译原理/编译原理作业/作业8.md",
     "编译原理/编译原理作业/作业9.md",
-    "SelfStudy/Machine Learning/Supervised Machine Learning/Week2.md",
-    "SelfStudy/Machine Learning/Supervised Machine Learning/Week3.md",
-    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/Pasted image 20230504162347.png",
-    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/Pasted image 20230504162303.png",
-    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/Pasted image 20230504162259.png",
-    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/Pasted image 20230504162156.png",
-    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/Pasted image 20230504162151.png",
-    "SelfStudy/Machine Learning/Supervised Machine Learning/assets/Pasted image 20230504162146.png",
     "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week3",
     "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week2",
     "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week1",
-    "SelfStudy/Machine Learning/Supervised Machine Learning/Week1.md",
     "编译原理/编译原理笔记/assets/compile-6",
     "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
     "编译原理/编译原理作业/作业2.md",
@@ -211,8 +251,6 @@
     "SelfStudy/Machine Learning/Supervised Machine Learning/assets",
     "SelfStudy/Machine Learning/Supervised Machine Learning",
     "计算机网络/计算机网络笔记/第4章 网络互联.md",
-    "计算机网络/计算机网络作业/第一次作业.md",
-    "SelfStudy/Machine Learning",
     "编译原理/编译原理笔记/词法分析与语法分析.canvas",
     "未命名 1.canvas"
   ]
