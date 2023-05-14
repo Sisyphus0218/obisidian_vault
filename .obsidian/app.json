@@ -11,5 +11,6 @@
   "newFileLocation": "current",
   "newLinkFormat": "relative",
   "attachmentFolderPath": "./assets",
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "strictLineBreaks": true
 }

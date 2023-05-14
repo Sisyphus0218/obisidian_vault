@@ -5,8 +5,8 @@
   "self_port": 3002,
   "native": "zh",
   "foreign": "en",
-  "popup_search": false,
-  "auto_pron": true,
+  "popup_search": true,
+  "auto_pron": false,
   "function_key": "ctrlKey",
   "dictionaries": {
     "youdao": {
@@ -18,7 +18,7 @@
       "priority": 2
     },
     "jukuu": {
-      "enable": true,
+      "enable": false,
       "priority": 3
     },
     "hjdict": {

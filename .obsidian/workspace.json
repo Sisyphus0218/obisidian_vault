@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b753c9f9ad0a4186",
+        "id": "e9e7b712593edbd9",
         "type": "tabs",
         "children": [
           {
-            "id": "75bdabd5202ea5e8",
+            "id": "0aadbc1013af4229",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -93,55 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
-              }
-            }
-          },
-          {
-            "id": "4ad31766dd4d1b35",
-            "type": "leaf",
-            "state": {
-              "type": "langr-search-panel",
-              "state": {}
-            }
-          },
-          {
-            "id": "68b5037eeabbe212",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "TODO.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b79943e98330188f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "TODO.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "7916dade789613f1",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "file": "编译原理/编译原理笔记/第5章 语法制导的翻译.md"
               }
             }
           },
@@ -154,6 +109,14 @@
             }
           },
           {
+            "id": "4ad31766dd4d1b35",
+            "type": "leaf",
+            "state": {
+              "type": "langr-search-panel",
+              "state": {}
+            }
+          },
+          {
             "id": "5eb764be4305c1ef",
             "type": "leaf",
             "state": {
@@ -162,39 +125,54 @@
             }
           },
           {
-            "id": "83f687132e3a9685",
+            "id": "46f275c7b9c3d5df",
             "type": "leaf",
             "state": {
               "type": "langr-learn-panel",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 238.5,
-    "collapsed": true
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "obsidian-language-learner:打开查词面板": false,
-      "obsidian-language-learner:打开新词面板": false,
-      "obsidian-language-learner:打开统计": false,
-      "obsidian-language-learner:单词列表": false
+      "obsidian-language-learner:打开新词面板": true,
+      "obsidian-language-learner:打开统计": true,
+      "obsidian-language-learner:单词列表": true,
+      "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "75bdabd5202ea5e8",
+  "active": "0aadbc1013af4229",
   "lastOpenFiles": [
+    "计算机网络/计算机网络笔记/第3章 交换网络.md",
+    "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
+    "计算机网络/计算机网络笔记/第2章 直连网络.md",
+    "编译原理/编译原理笔记/assets/Recording 20230514192416.webm",
+    "未命名.md",
+    "编译原理/编译原理笔记/编译原理重点.md",
+    "编译原理/编译原理笔记/第6章 中间代码生成.md",
+    "TODO.md",
+    "计算机体系结构基础/计算机体系结构基础作业/第2章.md",
+    "计算机体系结构基础/计算机体系结构基础笔记/重点.md",
+    "计算机体系结构基础/计算机体系结构基础笔记/第10章 并行编程基础.md",
+    "计算机体系结构基础/计算机体系结构基础笔记/第9章 指令流水线.md",
+    "计算机体系结构基础/计算机体系结构基础笔记/第8章 运算器设计.md",
+    "计算机体系结构基础/计算机体系结构基础笔记/第5章 计算机组成原理和结构.md",
+    "计算机体系结构基础/计算机体系结构基础笔记/第2章 指令系统.md",
+    "Excalidraw/Drawing 2023-05-09 14.39.29.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-09 15.55.47.excalidraw.md",
+    "计算机网络/计算机网络作业/第一次作业.md",
+    "计算机网络/侯昱帆实验总结1.md",
     "汇编语言/第8章 数据.md",
     "SelfStudy/python/numpy.md",
     "SelfStudy/JavaScript.md",
@@ -215,33 +193,14 @@
     "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week3/week3-4.png",
     "未命名.canvas",
     "2023-05-05.md",
-    "TODO.md",
     "Daily",
     "TODO",
     "UCAS",
-    "汇编语言/第7章 基础指令（二）.md",
-    "汇编语言/第6章 过程调用.md",
-    "编译原理/编译原理笔记/第6章 中间代码生成.md",
-    "编译原理/编译原理作业/作业11.md",
-    "Excalidraw/Drawing 2023-05-04 17.12.17.excalidraw.md",
-    "编译原理/编译原理作业/未命名.md",
-    "编译原理/编译原理作业/作业10.md",
-    "编译原理/编译原理作业/作业8.md",
-    "编译原理/编译原理作业/作业9.md",
     "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week3",
     "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week2",
     "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week1",
     "编译原理/编译原理笔记/assets/compile-6",
-    "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
-    "编译原理/编译原理作业/作业2.md",
-    "编译原理/编译原理作业/作业7.md",
-    "编译原理/编译原理作业/作业5.md",
-    "编译原理/编译原理作业/作业6.md",
-    "编译原理/编译原理作业/作业3.md",
-    "编译原理/编译原理作业/作业4.md",
     "SelfStudy/Machine Learning/Supervised Machine Learning/assets",
-    "SelfStudy/Machine Learning/Supervised Machine Learning",
-    "计算机网络/计算机网络笔记/第4章 网络互联.md",
     "编译原理/编译原理笔记/词法分析与语法分析.canvas",
     "未命名 1.canvas"
   ]
