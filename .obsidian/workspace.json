@@ -15,14 +15,28 @@
               "type": "markdown",
               "state": {
                 "file": "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "pinned": true
             }
+          },
+          {
+            "id": "f5f8912912797649",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机网络/计算机网络笔记/错题整理.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编译原理/编译原理笔记/第5章 语法制导的翻译.md"
+                "file": "计算机网络/计算机网络笔记/错题整理.md"
               }
             }
           },
@@ -152,15 +166,19 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "0aadbc1013af4229",
+  "active": "f5f8912912797649",
   "lastOpenFiles": [
-    "计算机网络/计算机网络笔记/第3章 交换网络.md",
     "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
+    "编译原理/编译原理笔记/第6章 中间代码生成.md",
+    "编译原理/编译原理笔记/第4章 语法分析.md",
+    "编译原理/编译原理笔记/第3章 词法分析.md",
+    "编译原理/编译原理笔记/词法分析与语法分析.canvas",
+    "编译原理/编译原理笔记/编译原理重点.md",
+    "编译原理/编译原理研讨课 PR003.md",
+    "计算机网络/计算机网络笔记/第3章 交换网络.md",
     "计算机网络/计算机网络笔记/第2章 直连网络.md",
     "编译原理/编译原理笔记/assets/Recording 20230514192416.webm",
     "未命名.md",
-    "编译原理/编译原理笔记/编译原理重点.md",
-    "编译原理/编译原理笔记/第6章 中间代码生成.md",
     "TODO.md",
     "计算机体系结构基础/计算机体系结构基础作业/第2章.md",
     "计算机体系结构基础/计算机体系结构基础笔记/重点.md",
@@ -177,10 +195,8 @@
     "SelfStudy/python/numpy.md",
     "SelfStudy/JavaScript.md",
     "SelfStudy/python",
-    "编译原理/编译原理研讨课 PR003.md",
     "SelfStudy/Machine Learning/Supervised Machine Learning/Week3.md",
     "SelfStudy/Machine Learning/Supervised Machine Learning/Week2.md",
-    "SelfStudy/Machine Learning/Supervised Machine Learning/Week1.md",
     "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week3/week3-1.png",
     "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week3/week3-12.png",
     "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week3/week3-11.png",
@@ -192,7 +208,6 @@
     "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week3/week3-5.png",
     "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week3/week3-4.png",
     "未命名.canvas",
-    "2023-05-05.md",
     "Daily",
     "TODO",
     "UCAS",
@@ -201,7 +216,6 @@
     "SelfStudy/Machine Learning/Supervised Machine Learning/assets/week1",
     "编译原理/编译原理笔记/assets/compile-6",
     "SelfStudy/Machine Learning/Supervised Machine Learning/assets",
-    "编译原理/编译原理笔记/词法分析与语法分析.canvas",
     "未命名 1.canvas"
   ]
 }
