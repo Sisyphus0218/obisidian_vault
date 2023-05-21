@@ -12,5 +12,6 @@
   "newLinkFormat": "relative",
   "attachmentFolderPath": "./assets",
   "showInlineTitle": false,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "focusNewTab": true
 }
