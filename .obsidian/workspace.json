@@ -4,25 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "2e6d9cd4745ab8b1",
+        "id": "7887b18c9ddbac22",
         "type": "tabs",
         "children": [
           {
-            "id": "86bd41107323e987",
+            "id": "466dda9de487f2e0",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编译原理/编译原理笔记/第4章 语法分析.md",
+                "file": "编译原理/notes/第4章 语法分析.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "pinned": true
             }
+          },
+          {
+            "id": "077f7bca526239bd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 274.5
   },
   "right": {
     "id": "b0cdade28f912586",
@@ -89,16 +98,14 @@
       {
         "id": "bf5b6bd31dc101b9",
         "type": "tabs",
-        "dimension": 74.45721583652617,
+        "dimension": 74.58703939008895,
         "children": [
           {
             "id": "63390faa1cf77eee",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "编译原理/编译原理笔记/第4章 语法分析.md"
-              }
+              "state": {}
             }
           },
           {
@@ -130,7 +137,7 @@
       {
         "id": "1d522587abe16949",
         "type": "tabs",
-        "dimension": 25.542784163473822,
+        "dimension": 25.412960609911057,
         "children": [
           {
             "id": "f676001c3fb69481",
@@ -144,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,60 +160,60 @@
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "audio-recorder:开始/结束录音": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false
+      "templates:插入模板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "86bd41107323e987",
+  "active": "c1e2da38f0cc7076",
   "lastOpenFiles": [
-    "Daily/2023-05-21.md",
-    "汇编语言/第3讲 编程初步.md",
-    "编译原理/编译原理笔记/第4章 语法分析.md",
-    "编译原理/编译原理笔记/第6章 中间代码生成.md",
-    "汇编语言/第4讲 基础指令.md",
-    "汇编语言/assets/Pasted image 20230521002218.png",
-    "Daily/2023-05-20.md",
-    "汇编语言/第1讲 基础知识.md",
-    "TODO.md",
-    "README.md",
-    "Excalidraw/Drawing 2023-05-16 16.08.57.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-18 17.40.32.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-17 21.57.27.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-06 20.13.28.excalidraw.md",
     "Excalidraw/Drawing 2023-05-18 17.40.32.excalidraw 1.md",
-    "Excalidraw/Drawing 2023-04-21 18.24.27.excalidraw.png",
-    "汇编语言/第7章 基础指令（二）.md",
-    "汇编语言/第6章 过程调用.md",
-    "汇编语言/assets/assembly-7/assembly-7-1.png",
-    "汇编语言/assets/assembly-7/assembly-7-2.png",
-    "汇编语言/assets/assembly-7/assembly-7-3.png",
-    "汇编语言/assets/assembly-7/assembly-7-4.png",
-    "汇编语言/assets/Pasted image 20230418150956.png",
-    "汇编语言/assets/Pasted image 20230504193846.png",
-    "汇编语言/assets/assembly-3/assembly-3-1.png",
-    "汇编语言/assets/assembly-3",
-    "汇编语言/assets/Pasted image 20230418151002.png",
-    "操作系统/操作系统作业/作业2.md",
-    "操作系统/操作系统作业/作业1.md",
-    "Templates/2023-05-20.md",
-    "Templates",
-    "Day Planners/Day Planner-20230520.md",
-    "Daily",
-    "Day Planners/Day Planner-20230520.md.nssyncsc",
-    "Day Planners/2023-05-20.md",
-    "Day Planners",
-    "Daily",
-    "汇编语言/assets/assembly-7",
-    "汇编语言/assets/assembly-6",
-    "汇编语言/assets/assembly-1",
-    "编译原理/编译原理作业/作业3.md",
-    "汇编语言/第8章 数据.md",
-    "编译原理/编译原理作业/作业12.md",
-    "编译原理/编译原理笔记/第7章 运行时刻环境.md",
-    "编译原理/编译原理作业/作业11.md",
-    "编译原理/编译原理笔记/第5章 语法制导的翻译.md",
-    "编译原理/编译原理笔记/assets/Recording 20230514192416.webm",
-    "编译原理/编译原理笔记/词法分析与语法分析.canvas",
+    "Excalidraw/Drawing 2023-05-18 17.40.32.excalidraw.md",
+    "编译原理/notes/第4章 语法分析.md",
+    "编译原理/tutorials/编译原理.pdf",
+    "编译原理/notes/第3章 词法分析.md",
+    "编译原理/homework/my_answer/作业16.md",
+    "编译原理/homework/question/第16次作业.pdf",
+    "编译原理/homework/my_answer/pdf/作业16.pdf",
+    "编译原理/homework/my_answer/assets/Pasted image 20230615002321.png",
+    "Excalidraw/Drawing 2023-06-15 00.20.10.excalidraw.md",
+    "编译原理/homework/my_answer/assets/Pasted image 20230615002241.png",
+    "编译原理/homework/my_answer/assets/Pasted image 20230615001107.png",
+    "编译原理/homework/my_answer/作业15.md",
+    "编译原理/notes/第8章 代码生成和优化.md",
+    "编译原理/homework/my_answer/assets/compile-hm15-1.png",
+    "编译原理/homework/question/第15次作业.pdf",
+    "编译原理/homework/my_answer/pdf/作业15.pdf",
+    "编译原理/homework/question/未确认 639444.crdownload",
+    "汇编语言/notes/第8章 数据.md",
+    "汇编语言/notes/第7章 基础指令（二）.md",
+    "汇编语言/notes/第3讲 编程初步.md",
+    "汇编语言/notes/第1讲 基础知识.md",
+    "编译原理/homework/my_answer/assets/compile-hm14-3.png",
+    "编译原理/homework/my_answer/assets/compile-hm14-2.png",
+    "编译原理/homework/my_answer/assets/compile-hm14-1.png",
+    "编译原理/homework/my_answer/assets/Pasted image 20230606194040.png",
+    "编译原理/homework/question/第14次作业.pdf",
+    "编译原理/homework/my_answer/作业14.md",
+    "编译原理/homework/my_answer/pdf/作业14.pdf",
+    "Excalidraw/Drawing 2023-06-06 19.21.39.excalidraw.md",
+    "编译原理/homework/my_answer/assets/compile-hm4-2.png",
+    "编译原理/homework/my_answer/作业13.md",
+    "编译原理/homework/my_answer/作业8.md",
+    "计算机网络/notes/第6章 网络应用.md",
+    "编译原理/homework/question/未确认 439184.crdownload",
+    "编译原理/homework/question/未确认 101342.crdownload",
+    "计算机网络/notes/第4章 网络互联.md",
+    "第6章 网络应用.md",
+    "汇编语言/notes/第6章 过程调用.md",
+    "汇编语言/notes/第5讲 条件处理指令.md",
+    "README.md",
+    "计算机网络/note.md",
+    "编译原理/homework/my_answer/作业12.md",
+    "编译原理/homework/作业13.md",
+    "编译原理/homework/my_answer/assets/compile-hm8-1.png",
+    "编译原理/notes/词法分析与语法分析.canvas",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
